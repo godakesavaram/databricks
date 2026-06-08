@@ -1,0 +1,15 @@
+{
+	"name": "prctadffrjob",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "74a40c56-39ae-418a-88c3-a966be732e50",
+		"tenantId": "87dadbff-e20c-4957-a287-1312294555f9"
+	}
+}
